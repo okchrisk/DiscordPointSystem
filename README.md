@@ -13,7 +13,6 @@ Inluded in the bot:
   <li>Point transferring to other users</li>
   <li>Personal and global statistic tracking</li>
   <li>Lottery system (funded by point transfer taxes and gambling loses</li>
-  <li></li>
 </ul>
 
 All numbers and odds are completely customizable within the source code under each respective function.
