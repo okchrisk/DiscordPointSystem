@@ -1,0 +1,28 @@
+{
+    "chuck": {
+        "invoked": 0
+    },
+    "gamble": {
+        "even": 0,
+        "odd": 0
+    },
+    "roulette": {
+        "soloNumber": 0,
+        "even": 0,
+        "odd": 0,
+        "red": 0,
+        "black": 0,
+        "low": 0,
+        "high": 0
+    },
+    "duel": {
+        "invoked": 0
+    },
+    "transfer": {
+        "invoked": 0
+    },
+    "lottery": {
+        "points": 0,
+        "totalGiven": 0
+    }
+}

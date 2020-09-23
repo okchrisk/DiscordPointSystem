@@ -1,0 +1,15 @@
+{
+    "userID goes here, delete this if implemented": {
+        "name": "okchrisk",
+        "points": 0,
+        "totalLost": 0,
+        "largestWin": 0,
+        "largestLoss": 0,
+        "totalWins": 0,
+        "duelWins": 0,
+        "totalGamble": 0,
+        "totalChuck": 0,
+        "totalRoulette": 0,
+        "totalDuel": 0
+    }
+}

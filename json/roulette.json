@@ -1,0 +1,1100 @@
+{
+    "0": {
+        "red": false,
+        "black": false,
+        "even": false,
+        "odd": false,
+        "low": false,
+        "high": false,
+        "column": [
+            -1
+        ],
+        "row": [
+            -1
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "1": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            1,
+            2,
+            3
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "2": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            1,
+            2,
+            3
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "3": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            1,
+            2,
+            3
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "4": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            4,
+            5,
+            6
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "5": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            4,
+            5,
+            6
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "6": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            4,
+            5,
+            6
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "7": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            7,
+            8,
+            9
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "8": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            7,
+            8,
+            9
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "9": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            7,
+            8,
+            9
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "10": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            10,
+            11,
+            12
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "11": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            10,
+            11,
+            12
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "12": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            10,
+            11,
+            12
+        ],
+        "1dozen": true,
+        "2dozen": false,
+        "3dozen": false
+    },
+    "13": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            13,
+            14,
+            15
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "14": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            13,
+            14,
+            15
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "15": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            13,
+            14,
+            15
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "16": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            16,
+            17,
+            18
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "17": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": true,
+        "high": false,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            16,
+            17,
+            18
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    }
+    ,
+    "18": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": true,
+        "high": false,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            16,
+            17,
+            18
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "19": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            19,
+            20,
+            21
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "20": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            19,
+            20,
+            21
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "21": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            19,
+            20,
+            21
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "22": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            22,
+            23,
+            24
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "23": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            22,
+            23,
+            24
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "24": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            22,
+            23,
+            24
+        ],
+        "1dozen": false,
+        "2dozen": true,
+        "3dozen": false
+    },
+    "25": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            25,
+            26,
+            27
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "26": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            25,
+            26,
+            27
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "27": {
+        "red": true,
+        "black": false,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            25,
+            26,
+            27
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "28": {
+        "red": false,
+        "black": true,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            28,
+            29,
+            30
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "29": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            28,
+            29,
+            30
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "30": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            28,
+            29,
+            30
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "31": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            31,
+            32,
+            33
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "32": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            31,
+            32,
+            33
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "33": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            31,
+            32,
+            33
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "34": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            1,
+            4,
+            7,
+            10,
+            13,
+            16,
+            19,
+            22,
+            25,
+            28,
+            31,
+            34
+        ],
+        "row": [
+            34,
+            35,
+            36
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "35": {
+        "red": false,
+        "black": true,
+        "even": false,
+        "odd": true,
+        "low": false,
+        "high": true,
+        "column": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23,
+            26,
+            29,
+            32,
+            35
+        ],
+        "row": [
+            34,
+            35,
+            36
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    },
+    "36": {
+        "red": true,
+        "black": false,
+        "even": true,
+        "odd": false,
+        "low": false,
+        "high": true,
+        "column": [
+            3,
+            6,
+            9,
+            12,
+            15,
+            18,
+            21,
+            24,
+            27,
+            30,
+            33,
+            36
+        ],
+        "row": [
+            34,
+            35,
+            36
+        ],
+        "1dozen": false,
+        "2dozen": false,
+        "3dozen": true
+    }
+}
