@@ -4,7 +4,7 @@ Presenting a point system to implement to your discord server that lets active u
 
 The bot will scan through the discord server, find all voice channels and assign points to currently connected users for them to spend on casino-type activities.
 
-Inluded in the bot:
+Included in the bot:
 
 <ul>
   <li>Creation of user accounts</li>
@@ -12,7 +12,7 @@ Inluded in the bot:
   <li>One-on-One point dueling</li>
   <li>Point transferring to other users</li>
   <li>Personal and global statistic tracking</li>
-  <li>Lottery system (funded by point transfer taxes and gambling loses)</li>
+  <li>Lottery system (funded by point transfer taxes and gambling losses)</li>
 </ul>
 
 All numbers and odds are completely customizable within the source code under each respective function.
