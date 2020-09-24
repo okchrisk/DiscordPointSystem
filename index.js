@@ -818,8 +818,6 @@ function pointsGambleChuck(message) {
         var points = getUserPoints(message.author.id);
 
         if (points == 0) {
-            const emoji = message.guild.emojis.cache.find(emoji => emoji.name === 'pepeClown');
-            message.react(emoji);
             return message.reply(`you have ${points} points.`);
         }
 
